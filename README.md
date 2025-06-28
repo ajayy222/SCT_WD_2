@@ -15,7 +15,9 @@ This is Task 02 of the SkillCraft Web Development Internship. The goal was to bu
 - CSS3
 - JavaScript (DOM Manipulation & Events)
 
-## 📷 Preview
-_Add a screenshot of the calculator UI here_
+## 🔗 Live Demo
+[View Live Calculator]
+https://elaborate-kringle-1c6ddc.netlify.app/
 
-## 📁 Files Structure
+## 🙋 Author
+**Ajay Jangir** – Web Development Intern at SkillCraft
